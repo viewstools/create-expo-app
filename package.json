@@ -1,0 +1,32 @@
+{
+  "name": "@viewstools/create-expo-app",
+  "version": "23.0.0",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viewstools/create-expo-app.git"
+  },
+  "author": "Darío Javier Cravero <dario@uxtemple.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/viewstools/create-expo-app/issues"
+  },
+  "dependencies": {
+    "@viewstools/morph": "^23.4.0",
+    "concurrently": "^5.2.0",
+    "d3-ease": "^1.0.6",
+    "expo-status-bar": "^1.0.0",
+    "graphql": "^15.0.0",
+    "graphql-tag": "^2.10.3",
+    "husky": "^4.2.5",
+    "immer": "^6.0.6",
+    "internal-ip": "^6.0.0",
+    "lint-staged": "^10.2.4",
+    "mousetrap": "^1.6.5",
+    "prettier": "^2.0.5",
+    "react-native-safe-area-context": "^3.0.7",
+    "react-native-svg": "^12.1.0",
+    "react-spring": "^8.0.27",
+    "urql": "^1.9.7"
+  }
+}
